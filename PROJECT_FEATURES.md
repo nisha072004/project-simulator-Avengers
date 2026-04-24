@@ -6,3 +6,7 @@ This feature allows administrators to view, add, edit, and delete user accounts 
 ## T-04: Manage system settings
 **Status: System Work**
 
+## T-04: Manage system settings
+This feature allows admin can update system configurations.
+**Status: System Work**
+
