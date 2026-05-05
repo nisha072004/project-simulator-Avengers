@@ -8,3 +8,7 @@ This feature allows administrators to view, add, edit, and delete user accounts 
 This feature allows system displays repair progress.
 **Status: Upadated**
 
+## T-06: Update repair status
+This feature allow system displays repair progress.
+** Status: Updated**
+
