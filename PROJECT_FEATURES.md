@@ -7,3 +7,7 @@ This feature allows administrators to view, add, edit, and delete user accounts 
 This feature allows administrators to monitor system logs, track user activities, and review system behavior for security and auditing purposes.
 **Status: Implemented**
 
+## T-10: Manage Inventory
+This feature allows administrators to manage inventory by adding, updating, and removing products, tracking stock levels, and ensuring accurate inventory records.
+**Status: Implemented**
+
