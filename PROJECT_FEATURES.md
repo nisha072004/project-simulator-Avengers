@@ -6,3 +6,11 @@ This feature allows administrators to monitor business profit by analyzing reven
 This feature allows new users to create an account by providing necessary details such as name, email, and password, including validation and secure account creation.
 **Status: Implemented**
 
+## T-05: Maintain sales records
+This feature allows system displays sales history.
+**Status: Sold**
+
+## T-05: Maintain sales records
+This feature allows system displays sales history
+**Status: Sold**
+
